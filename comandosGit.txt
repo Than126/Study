@@ -1,0 +1,7 @@
+git config --global user.name "nombre usuaruio":  aapuede llevar comas
+git congig --global user.email  correo: correo de la persdona
+git config --global core.editor "core --wait" el --wait sirve para que la terminal se quede esperando hasta que cerremos el vs code
+
+
+git config --list: muestra todas las configuraciones que tenemos
+git config --global core.autocrlf true: se pone true en windows pero input en linux
